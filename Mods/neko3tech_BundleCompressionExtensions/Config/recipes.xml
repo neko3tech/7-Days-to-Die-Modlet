@@ -1,0 +1,8 @@
+<configs>
+    <append xpath="/recipes">
+        <!-- 大量の粘土層（6000）のレシピ -->
+        <recipe name="resourceClayLumpBundle" count="1" craft_time="10" tags="learnable">
+            <ingredient name="resourceClayLump" count="6000"/>
+        </recipe>
+    </append>
+</configs>

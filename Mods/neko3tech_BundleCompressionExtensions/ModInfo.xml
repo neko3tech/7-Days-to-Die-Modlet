@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="Bundle Compression Extensions" />
+		<Description value="Bundle Compression Extensions" />
+		<Author value="neko3tech" />
+		<Version value="1.0.0" />
+		<Website value="https://github.com/neko3tech/7-Days-to-Die-Modlet" />
+	</ModInfo>
+</xml>
