@@ -1,5 +1,16 @@
 <configs>
+    <!-- 大量の粘土層（6000）：採掘の匠 5巻でアンロック -->
     <set xpath="/progression/perks/perk[@name='perkArtOfMiningPallets']/effect_group/passive_effect[@name='RecipeTagUnlocked']/@tags">
         resourceRockSmallBundle,resourceWoodBundle,resourceScrapIronBundle,resourceOilShaleBundle,resourcePotassiumNitratePowderBundle,resourceLeadBundle,resourceCoalBundle,resourceClayLumpBundle
+    </set>
+
+    <!-- 大量の生肉（125）：マスターシェフ Lv2でアンロック -->
+    <set xpath="/progression/perks/perk[@name='perkMasterChef']/effect_group/passive_effect[@name='RecipeTagUnlocked' and @level='2,5']/@tags">
+        foodSteakAndPotato,foodBlueberryPie,foodMeatStew,foodVegetableStew,foodPumpkinPie,foodPumpkinCheesecake,foodPumpkinBread,foodRawMeatBundle
+    </set>
+
+    <!-- 大量の腐肉（125）：マスターシェフ Lv3でアンロック -->
+    <set xpath="/progression/perks/perk[@name='perkMasterChef']/effect_group/passive_effect[@name='RecipeTagUnlocked' and @level='3,5']/@tags">
+        foodShamChowder,foodHoboStew,foodFishTacos,drinkYuccaJuiceSmoothie,foodChiliDog,drinkJarBeer,foodRottingFleshBundle
     </set>
 </configs>

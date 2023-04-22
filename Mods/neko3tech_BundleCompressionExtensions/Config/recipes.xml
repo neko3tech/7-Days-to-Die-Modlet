@@ -4,5 +4,15 @@
         <recipe name="resourceClayLumpBundle" count="1" craft_time="10" tags="learnable">
             <ingredient name="resourceClayLump" count="6000"/>
         </recipe>
+
+        <!-- 大量の生肉（125）のレシピ -->
+        <recipe name="foodRawMeatBundle" count="1" craft_time="10" tags="learnable">
+            <ingredient name="foodRawMeat" count="125"/>
+        </recipe>
+
+        <!-- 大量の腐肉（125）のレシピ -->
+        <recipe name="foodRottingFleshBundle" count="1" craft_time="10" tags="learnable">
+            <ingredient name="foodRottingFlesh" count="125"/>
+        </recipe>
     </append>
 </configs>

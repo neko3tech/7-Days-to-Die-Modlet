@@ -1,3 +1,7 @@
 Key,File,Type,UsedInMainMenu,NoTranslate,english,Context / Alternate Text,japanese
 resourceClayLumpBundle,items,Item,,,Stack of Clay Lump (6000),,大量の粘土層（6000）
 resourceClayLumpBundleDesc,items,Item,,,This is a compact stack of clay lumps. Use this item to open and unpack it.,,大量の粘土層がコンパクトにまとめられています。このアイテムを使用すると開封や内容品の取り出しが可能です。
+foodRawMeatBundle,items,Item,,,Stack of Raw Meat (125),,大量の生肉（125）
+foodRawMeatBundleDesc,items,Item,,,This is a compact stack of raw meat. Use this item to open and unpack it.,,大量の生肉がコンパクトにまとめられています。このアイテムを使用すると開封や内容品の取り出しが可能です。
+foodRottingFleshBundle,items,Item,,,Stack of Rotting Flesh (125),,大量の腐肉（125）
+foodRottingFleshBundleDesc,items,Item,,,This is a compact stack of rotting flesh. Use this item to open and unpack it.,,大量の腐肉がコンパクトにまとめられています。このアイテムを使用すると開封や内容品の取り出しが可能です。
