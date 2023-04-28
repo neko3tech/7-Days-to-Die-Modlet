@@ -5,3 +5,9 @@ foodRawMeatBundle,items,Item,,,Stack of Raw Meat (125),,大量の生肉（125）
 foodRawMeatBundleDesc,items,Item,,,This is a compact stack of raw meat. Use this item to open and unpack it.,,大量の生肉がコンパクトにまとめられています。このアイテムを使用すると開封や内容品の取り出しが可能です。
 foodRottingFleshBundle,items,Item,,,Stack of Rotting Flesh (125),,大量の腐肉（125）
 foodRottingFleshBundleDesc,items,Item,,,This is a compact stack of rotting flesh. Use this item to open and unpack it.,,大量の腐肉がコンパクトにまとめられています。このアイテムを使用すると開封や内容品の取り出しが可能です。
+resourceBoneBundle,items,Item,,,Stack of Bone (1200),,大量の骨（1200）
+resourceBoneBundleDesc,items,Item,,,This is a compact stack of bone. Use this item to open and unpack it.,,大量の骨がコンパクトにまとめられています。このアイテムを使用すると開封や内容品の取り出しが可能です。
+resourceFeatherBundle,items,Item,,,Stack of Feather (250),,大量の羽根（250）
+resourceFeatherBundleDesc,items,Item,,,This is a compact stack of feather. Use this item to open and unpack it.,,大量の羽根がコンパクトにまとめられています。このアイテムを使用すると開封や内容品の取り出しが可能です。
+resourceLeatherBundle,items,Item,,,Stack of Leather (250),,大量の革（250）
+resourceLeatherBundleDesc,items,Item,,,This is a compact stack of leather. Use this item to open and unpack it.,,大量の革がコンパクトにまとめられています。このアイテムを使用すると開封や内容品の取り出しが可能です。

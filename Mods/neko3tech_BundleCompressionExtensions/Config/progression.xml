@@ -13,4 +13,14 @@
     <set xpath="/progression/perks/perk[@name='perkMasterChef']/effect_group/passive_effect[@name='RecipeTagUnlocked' and @level='3,5']/@tags">
         foodShamChowder,foodHoboStew,foodFishTacos,drinkYuccaJuiceSmoothie,foodChiliDog,drinkJarBeer,foodRottingFleshBundle
     </set>
+
+    <!-- 大量の骨（1200）のレシピ -->
+    <!-- 大量の羽根（250）のレシピ -->
+    <!-- 大量の革（250）のレシピ -->
+    <insertAfter xpath="/progression/perks/perk[@name='perkTheHuntsman']/effect_group/passive_effect[@name='HarvestCount']">
+        <passive_effect name="RecipeTagUnlocked" operation="base_set" level="2,5" value="1" tags="resourceBoneBundle"/>
+        <passive_effect name="RecipeTagUnlocked" operation="base_set" level="3,5" value="1" tags="resourceFeatherBundle"/>
+        <passive_effect name="RecipeTagUnlocked" operation="base_set" level="4,5" value="1" tags="resourceLeatherBundle"/>
+    </insertAfter>
+
 </configs>

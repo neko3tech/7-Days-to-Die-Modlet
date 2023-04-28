@@ -14,5 +14,21 @@
         <recipe name="foodRottingFleshBundle" count="1" craft_time="10" tags="learnable">
             <ingredient name="foodRottingFlesh" count="125"/>
         </recipe>
+
+        <!-- 大量の骨（1200）のレシピ -->
+        <recipe name="resourceBoneBundle" count="1" craft_time="10" tags="learnable">
+            <ingredient name="resourceBone" count="1200"/>
+        </recipe>
+
+        <!-- 大量の羽根（250）のレシピ -->
+        <recipe name="resourceFeatherBundle" count="1" craft_time="10" tags="learnable">
+            <ingredient name="resourceFeather" count="250"/>
+        </recipe>
+
+        <!-- 大量の革（250）のレシピ -->
+        <recipe name="resourceLeatherBundle" count="1" craft_time="10" tags="learnable">
+            <ingredient name="resourceLeather" count="250"/>
+        </recipe>
+
     </append>
 </configs>
